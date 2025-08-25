@@ -22,7 +22,6 @@ export default function Index() {
         <View className="flex-1 bg-black">
       <View className="flex-1 px-8 justify-between">
         <View className="flex-1 justify-center">
-          // demo image
           <View className="items-center">
             <Image
             source={Auth3Image}
